@@ -48,7 +48,7 @@ Please note that when you first run the program, it will check to see if you hav
 backgroundremover -i "./images/before/home.png" -o "./images/after/home.png" -a -ae 15
 ```
 
-- If you want to 
+- If you want to loop overs directory
 
 ```bash
 python main.py
